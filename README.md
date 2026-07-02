@@ -20,3 +20,6 @@ This project analyzes a bank marketing dataset to understand customer behavior a
   
   **Data Visualization – Summary**
 Performed data visualization using Matplotlib and Seaborn to explore customer behavior, feature distributions, correlations, and subscription trends. Various charts such as count plots, histograms, pair plots, and heatmaps were used to identify patterns and generate meaningful business insights.
+
+
+
